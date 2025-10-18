@@ -35,7 +35,7 @@ Analyzed repeated SKUs and pricing anomalies
 
 ---
 
-![Zepto Business Insights](https://github.com/yourusername/Zepto-SQL-Analysis/blob/main/images/dashboard.png)
+![Zepto Business Insights](https://github.com/sujitsathe/Zepto-SQL-Data-Analysis/blob/main/Business%20Insights.png)
 
 ---
 
